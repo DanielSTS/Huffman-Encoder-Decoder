@@ -1,6 +1,6 @@
 import cv2
-from MinHeap import *
-from No import *
+from src.MinHeap import *
+from src.No import *
 import numpy as np
 
 
