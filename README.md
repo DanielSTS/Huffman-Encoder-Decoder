@@ -1,13 +1,18 @@
-# <h1> Huffman Codificador/Decodificador </h1>
+# Huffman Encoder-Decoder
 
-Projeto do componente curricular Análise e Técnica de algoritmos, do curso de Bacharelado em Engenharia de computação, IFPB, Campus Campina Grande. 
+This project was developed as part of the "Analysis and Algorithm Techniques" curriculum component in the Computer Engineering Bachelor's degree program at IFPB, Campus Campina Grande.
 
-Desenvolvido por: Alberto da Silva Félix e Daniel Santos Silva Júnior.
+Developed by:
 
-## Descrição
+Alberto da Silva Félix and Daniel Santos Silva Júnior.
 
-A aplicação tem como objetivo fazer a compressão e descompressão de imagens utilizando o método de Huffman.
+## Description
+The application aims to compress and decompress images using the Huffman method.
 
-## Tecnologias
-- `Python`  
-- `OpenCV` 
+## Technologies
+- Python
+- OpenCV
+
+## Usage
+1. Clone the repository https://github.com/DanielSTS/Huffman-Encoder-Decoder
+2. Follow the usage instructions provided in the code.
